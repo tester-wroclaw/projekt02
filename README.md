@@ -1,1 +1,3 @@
 # projekt02
+gupstwa
+
